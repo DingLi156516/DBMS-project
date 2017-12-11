@@ -2,7 +2,7 @@ Please go through this file to setup the project, view the project demo and test
 
 Setup video link: https://www.youtube.com/watch?v=NPutlJ9PmcY&feature=youtu.be
 
-Project demo link: 
+Project demo link: https://www.youtube.com/watch?v=U-sMjvWE76A&feature=youtu.be
 
 For the ease of testing of out project, here are three credentials for each type of user
 
