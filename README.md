@@ -1,4 +1,10 @@
-For the ease of testing of out project, here are three credentials for each type of users
+Please go through this file to setup the project, view the project demo and test the project.
+
+Setup video link: https://www.youtube.com/watch?v=NPutlJ9PmcY&feature=youtu.be
+
+Project demo link: 
+
+For the ease of testing of out project, here are three credentials for each type of user
 
 Student example:
 email: Huf@gmail.com
@@ -13,13 +19,13 @@ email: Bivona@gmail.com
 password: 31Vickey
 
 
-The tasks and complex queries that student can perform:
+The tasks and complex queries that a student can perform:
 Task C, Task E, Task F, Task H, Complex Query 3
 
-The tasks and complex queries that admin can perform:
+The tasks and complex queries that an admin can perform:
 Task B, Task C, Task D, Task G, Task H, Complex Query 1, Complex Query 2
 
-The tasks and complex queries that faculty can perform:
+The tasks and complex queries that a faculty can perform:
 Complex Query 4, Complex Query 5
 
 All the new users can perform Task A (user registration)
