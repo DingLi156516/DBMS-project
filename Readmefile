@@ -1,0 +1,36 @@
+The tasks and complex queries that student can perform:
+Task C, Task E, Task F, Task H, Complex Query 3
+The tasks and complex queries that admin can perform:
+Task B, Task C, Task D, Task G, Task H, Complex Query 1, Complex Query 2
+The tasks and complex queries that faculty can perform:
+Complex Query 4, Complex Query 5
+All the new users can perfrom Task A (user registration)
+
+Here is how the files are compared and combined:
+In order to login, you will need the index.php, login.php.
+For Task A, which is the user registration, it will require user_registration.php, user_process.php.
+For Task B it requires taskb.php, taskbad.php, taskbadm.php, taskbb1.php and taskbinter.php.
+For Task C TaskCactionadmin.php and TaskCadmin.php are required if an admin wnats to execute it. But for student only TaskCactionstudent.php is needed.
+For Task D it requires TaskD.php, TaskDaction.php and TaskDnext.php.
+For Task E it requires TaskE.php and TaskEaction.php.
+For Task F it requires TaskF.php and TaskFaction.php.
+For Task G it requires TaskG.php, TaskGlast.php and TaskFaction.php.
+For Task H it requires TaskH.php, TaskHprocessadmin.php and TaskHprocessstudent.php for the both the administrator and the student to run.
+For complex query 1 it requires request1.php and request1action.php.
+For complex query 1 it requires request2.php and request2action.php.
+For complex query 1 it requires request3.php and request3action.php.
+For complex query 1 it requires request4.php and request4action.php.
+For complex query 1 it requires request5.php and request5action.php.
+
+Besides, for some tasks, when you login as some random user, the dropdown list for some specific tasks will be null, that is because there is no value related to it. We didn't implement another option for this situation because of time limit.
+
+And for the ease of tesing of out project, here are three credentials for each type of users
+Student example:
+email: Huf@gmail.com
+password: 1Sabra
+Faculty example:
+email: Gallardo@gmail.com
+password: 23Romaine
+Admin example:
+email: Bivona@gmail.com
+password: 31Vickey
