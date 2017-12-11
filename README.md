@@ -120,19 +120,33 @@ TaskHprocessstudent.php - In task H we need to populate 2 tables, one table show
 
 
 Here’s how the files are compared and combined:
+
 In order to login, you will need the index.php, login.php.
+
 For Task A, which is the user registration, it will require user_registration.php, user_process.php.
+
 For Task B it requires taskb.php, taskbad.php, taskbadm.php, taskbb1.php and taskbinter.php
+
 For Task C TaskCactionadmin.php and TaskCadmin.php are required if an admin wants to execute it. But for student only TaskCactionstudent.php is needed.
+
 For Task D it requires TaskD.php, TaskDaction.php and TaskDnext.php
+
 For Task E it requires TaskE.php and TaskEaction.php
+
 For Task F it requires TaskF.php and TaskFaction.php
+
 For Task G it requires TaskG.php, TaskGlast.php and TaskFaction.php
+
 For Task H it requires TaskH.php, TaskHprocessadmin.php and TaskHprocessstudent.php for the both the administrator and the student to run.
+
 For complex query 1 it requires request1.php and request1action.php
+
 For complex query 1 it requires request2.php and request2action.php
+
 For complex query 1 it requires request3.php and request3action.php
+
 For complex query 1 it requires request4.php and request4action.php
+
 For complex query 1 it requires request5.php and request5action.php
 
 
